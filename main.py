@@ -1,1 +1,1 @@
-print('Это ветка dev')
+print('Изменение на GitHub')
